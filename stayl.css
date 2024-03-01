@@ -1,0 +1,81 @@
+body{
+    background-color: rgba(0, 0, 0, 0.636);
+}
+
+.container{
+    width: 1492px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+
+.hedor{
+    display: flex;
+justify-content: space-between;
+}
+
+.btn{
+width: 109px;
+height: 50px;
+border-radius: 40px;
+border: none;
+}
+
+.input{
+    width: 803px;
+    height: 50px;
+    border-radius: 40px;
+}
+.btm{
+width: 292px;
+height: 50px;   
+border-radius: 40px;
+border: none;
+background-color: rgb(17, 184, 17);
+color: white;
+}
+
+/* ---------------------header end------------------------ */
+
+/* ------------------------main start-------------------------- */
+
+.athens{
+    width: 510px;
+    height: 360px;
+    -webkit-box-shadow: 7px 6px 12px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: 7px 6px 12px 5px rgba(0,0,0,0.75);
+    box-shadow: 7px 6px 12px 5px rgba(0,0,0,0.75);  
+    border-radius: 20px;
+}
+.athens_text{
+    padding: 50px 100px;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+
+.at{
+    color: #FFF;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 90px;
+}
+span{
+    color: #FFF;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 90px;
+}
+.th{
+    color: #FFF;
+font-family: Jost;
+margin-left: 70px;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
